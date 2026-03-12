@@ -5,20 +5,333 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Manchurain - AI Votes on Oregon Bills</title>
     <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
         body {
-            font-family: system-ui, -apple-system, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem;
-            background: #f5f5f5;
-            color: #333;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            background: #0a0a0f;
+            color: #e0e0e0;
+            min-height: 100vh;
         }
-        h1 { color: #1a1a2e; }
+
+        .header {
+            text-align: center;
+            padding: 3rem 2rem 2rem;
+            background: linear-gradient(180deg, #12121a 0%, #0a0a0f 100%);
+            border-bottom: 1px solid #1a1a2e;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #fff;
+            letter-spacing: -0.02em;
+        }
+
+        .header h1 span {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .header p {
+            margin-top: 0.75rem;
+            color: #888;
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .header .subtitle {
+            margin-top: 0.5rem;
+            color: #555;
+            font-size: 0.85rem;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 1.8rem;
+            font-weight: 700;
+        }
+
+        .stat-label {
+            font-size: 0.75rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .stat-yes .stat-value { color: #4ade80; }
+        .stat-no .stat-value { color: #f87171; }
+        .stat-total .stat-value { color: #667eea; }
+
+        .controls {
+            max-width: 900px;
+            margin: 1.5rem auto 0;
+            padding: 0 1.5rem;
+            display: flex;
+            gap: 0.75rem;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 0.4rem 1rem;
+            border-radius: 999px;
+            border: 1px solid #2a2a3e;
+            background: transparent;
+            color: #888;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.2s;
+        }
+
+        .filter-btn:hover { border-color: #667eea; color: #ccc; }
+        .filter-btn.active { background: #667eea; color: #fff; border-color: #667eea; }
+
+        .bills-container {
+            max-width: 900px;
+            margin: 1.5rem auto 3rem;
+            padding: 0 1.5rem;
+        }
+
+        .bill-card {
+            background: #12121a;
+            border: 1px solid #1a1a2e;
+            border-radius: 12px;
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 0.75rem;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        .bill-card:hover {
+            border-color: #2a2a4e;
+            background: #16161f;
+        }
+
+        .bill-top {
+            display: flex;
+            align-items: flex-start;
+            gap: 1rem;
+        }
+
+        .vote-badge {
+            flex-shrink: 0;
+            width: 52px;
+            height: 52px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .vote-yes {
+            background: rgba(74, 222, 128, 0.1);
+            color: #4ade80;
+            border: 1px solid rgba(74, 222, 128, 0.2);
+        }
+
+        .vote-no {
+            background: rgba(248, 113, 113, 0.1);
+            color: #f87171;
+            border: 1px solid rgba(248, 113, 113, 0.2);
+        }
+
+        .vote-unknown {
+            background: rgba(100, 100, 120, 0.1);
+            color: #666;
+            border: 1px solid rgba(100, 100, 120, 0.2);
+        }
+
+        .bill-info {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .bill-number {
+            font-size: 0.8rem;
+            color: #667eea;
+            font-weight: 600;
+            letter-spacing: 0.02em;
+        }
+
+        .bill-title {
+            font-size: 1rem;
+            color: #ddd;
+            margin-top: 0.25rem;
+            line-height: 1.4;
+        }
+
+        .bill-reasoning {
+            display: none;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid #1a1a2e;
+        }
+
+        .bill-reasoning.open { display: block; }
+
+        .reasoning-label {
+            font-size: 0.75rem;
+            color: #667eea;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.5rem;
+        }
+
+        .reasoning-text {
+            font-size: 0.9rem;
+            color: #aaa;
+            line-height: 1.6;
+        }
+
+        .bill-links {
+            margin-top: 0.75rem;
+            display: flex;
+            gap: 1rem;
+        }
+
+        .bill-links a {
+            font-size: 0.8rem;
+            color: #667eea;
+            text-decoration: none;
+        }
+
+        .bill-links a:hover { text-decoration: underline; }
+
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            color: #444;
+            font-size: 0.8rem;
+            border-top: 1px solid #1a1a2e;
+        }
+
+        .footer a { color: #667eea; text-decoration: none; }
+
+        @media (max-width: 600px) {
+            .header h1 { font-size: 1.8rem; }
+            .bill-card { padding: 1rem; }
+            .vote-badge { width: 42px; height: 42px; font-size: 0.65rem; }
+        }
     </style>
 </head>
 <body>
-    <h1>Manchurain</h1>
-    <p>What would happen if AI voted on Oregon Senate bills?</p>
-    <p>Coming soon.</p>
+    <div class="header">
+        <h1>The <span>Manchurain</span> Candidate</h1>
+        <p>A social experiment: What would happen if an AI voted on Oregon Senate bills?</p>
+        <p class="subtitle">2026 Regular Session &middot; Powered by Claude</p>
+        <div class="stats">
+            <div class="stat stat-total">
+                <div class="stat-value" id="stat-total">0</div>
+                <div class="stat-label">Bills Analyzed</div>
+            </div>
+            <div class="stat stat-yes">
+                <div class="stat-value" id="stat-yes">0</div>
+                <div class="stat-label">Yes Votes</div>
+            </div>
+            <div class="stat stat-no">
+                <div class="stat-value" id="stat-no">0</div>
+                <div class="stat-label">No Votes</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="controls">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="yes">Yes</button>
+        <button class="filter-btn" data-filter="no">No</button>
+    </div>
+
+    <div class="bills-container" id="bills"></div>
+
+    <div class="footer">
+        <p>This is a social experiment, not political advice. AI votes are generated by Claude (Anthropic) based solely on bill text.</p>
+        <p style="margin-top: 0.5rem;">Bill data from <a href="https://www.oregonlegislature.gov" target="_blank">Oregon Legislature</a> &middot; <a href="https://github.com/plantcapybara/manchurain" target="_blank">Source</a></p>
+    </div>
+
+    <script>
+    let allBills = [];
+    let currentFilter = 'all';
+
+    async function loadBills() {
+        const resp = await fetch('data/bills.json');
+        allBills = await resp.json();
+        updateStats();
+        renderBills();
+    }
+
+    function updateStats() {
+        const voted = allBills.filter(b => b.vote?.vote === 'yes' || b.vote?.vote === 'no');
+        const yes = allBills.filter(b => b.vote?.vote === 'yes').length;
+        const no = allBills.filter(b => b.vote?.vote === 'no').length;
+        document.getElementById('stat-total').textContent = voted.length;
+        document.getElementById('stat-yes').textContent = yes;
+        document.getElementById('stat-no').textContent = no;
+    }
+
+    function renderBills() {
+        const container = document.getElementById('bills');
+        const filtered = currentFilter === 'all'
+            ? allBills
+            : allBills.filter(b => b.vote?.vote === currentFilter);
+
+        container.innerHTML = filtered.map(bill => {
+            const vote = bill.vote?.vote || 'unknown';
+            const reasoning = bill.vote?.reasoning || '';
+            return `
+                <div class="bill-card" onclick="toggleReasoning(this)">
+                    <div class="bill-top">
+                        <div class="vote-badge vote-${vote}">${vote}</div>
+                        <div class="bill-info">
+                            <div class="bill-number">${bill.number}</div>
+                            <div class="bill-title">${bill.title}</div>
+                        </div>
+                    </div>
+                    <div class="bill-reasoning">
+                        <div class="reasoning-label">AI Reasoning</div>
+                        <div class="reasoning-text">${reasoning}</div>
+                        <div class="bill-links">
+                            <a href="${bill.url}" target="_blank">View on OLIS</a>
+                            <a href="${bill.pdf_url}" target="_blank">PDF</a>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }).join('');
+    }
+
+    function toggleReasoning(card) {
+        card.querySelector('.bill-reasoning').classList.toggle('open');
+    }
+
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentFilter = btn.dataset.filter;
+            renderBills();
+        });
+    });
+
+    loadBills();
+    </script>
 </body>
 </html>

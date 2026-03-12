@@ -1,0 +1,750 @@
+[
+  {
+    "id": "SB1501",
+    "number": "SB 1501",
+    "title": "Relating to the Moda Center; and declaring an emergency.",
+    "vote": {
+      "vote": "no",
+      "reasoning": "This bill uses a tax increment financing mechanism to redirect payroll withholding taxes from the General Fund to subsidize a professional sports arena, effectively making taxpayers backstop a private NBA franchise's lease. Diverting General Fund-equivalent tax revenues to benefit a private sports team is not a sound use of public money when Oregon faces pressing needs in education, housing, and healthcare."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1501",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1501/Introduced"
+  },
+  {
+    "id": "SB1502",
+    "number": "SB 1502",
+    "title": "Relating to proposed legislative measures to be filed by the Secretary of State; and prescribing an",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This is a narrow, low-cost measure that directs the Secretary of State to file recommendations for improving Oregon's campaign finance limitations system. It promotes democratic accountability and has no fiscal impact of its own."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1502",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1502/Introduced"
+  },
+  {
+    "id": "SB1504",
+    "number": "SB 1504",
+    "title": "Relating to the administration of epinephrine; amending ORS 339.866, 339.867, 339.871, 433.800,",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Expanding permissible forms of epinephrine delivery in schools beyond auto-injection (e.g., to intranasal devices) is a sensible, evidence-based update that improves emergency response options for students with severe allergies at no significant cost."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1504",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1504/Introduced"
+  },
+  {
+    "id": "SB1505",
+    "number": "SB 1505",
+    "title": "Relating to the Home and Community-Based Services Workforce Standards Board; creating new",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Establishing a workforce standards board for home and community-based care workers addresses a real workforce shortage in a sector critical to aging and disabled Oregonians. The bill includes fiscal guardrails \u2014 standards cannot take effect until the Legislature appropriates funding."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1505",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1505/Introduced"
+  },
+  {
+    "id": "SB1506",
+    "number": "SB 1506",
+    "title": "Relating to the Bureau of Labor and Industries.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Commissioning a study on how other states fund their labor agencies is a prudent and low-cost exercise in fiscal planning. The bill sunsets automatically in 2028, limiting any ongoing administrative burden."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1506",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1506/Introduced"
+  },
+  {
+    "id": "SB1507",
+    "number": "SB 1507",
+    "title": "Relating to revenue; creating new provisions; amending ORS 316.037, 317.061, 317.090 and 317A.125",
+    "vote": {
+      "vote": "no",
+      "reasoning": "This bill reduces income taxes, corporate taxes, and the estate tax conditioned on Oregon enacting a retail sales tax by 2030. The tax reduction provisions are incomplete as drafted (replacement rate brackets are left blank), making the bill technically deficient. The policy involves significant revenue risk and regressive tradeoffs."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1507",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1507/Introduced"
+  },
+  {
+    "id": "SB1508",
+    "number": "SB 1508",
+    "title": "Relating to elections.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Directing the Secretary of State to study elections and report to interim legislative committees is a minimal, sunsetted measure that costs little and could produce useful information for future election policy improvements."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1508",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1508/Introduced"
+  },
+  {
+    "id": "SB1509",
+    "number": "SB 1509",
+    "title": "Relating to electors of President and Vice President of the United States; amending ORS 248.355,",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill implements the U.S. Supreme Court's ruling in Chiafalo v. Washington (2020) by codifying binding elector pledges and creating a clear vacancy mechanism when a presidential elector casts a faithless ballot. It strengthens democratic integrity."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1509",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1509/Introduced"
+  },
+  {
+    "id": "SB1510",
+    "number": "SB 1510",
+    "title": "Relating to taxation; creating new provisions; amending ORS 284.368, 307.162, 314.698 and 317.267",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This is a technical corrections bill that updates tax code terminology to match federal law changes, removes an expired sunset on the earned income tax credit, and expands a film production tax credit. The changes are narrow, well-reasoned, and fiscally modest."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1510",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1510/Introduced"
+  },
+  {
+    "id": "SB1511",
+    "number": "SB 1511",
+    "title": "Relating to the estate tax.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Directing the Legislative Revenue Officer to study the estate tax and review options for modifying the exemption threshold and rates is a prudent, zero-cost measure that will inform evidence-based tax policy."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1511",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1511/Introduced"
+  },
+  {
+    "id": "SB1512",
+    "number": "SB 1512",
+    "title": "Relating to workforce development; amending ORS 660.380 and 660.385.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill strengthens the Prosperity 10,000 workforce development program by shifting administration through local workforce development boards and adding grant criteria that emphasize employer engagement and leveraging federal funds."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1512",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1512/Introduced"
+  },
+  {
+    "id": "SB1513",
+    "number": "SB 1513",
+    "title": "Relating to real estate professionals; and declaring an emergency.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill provides a temporary compliance extension for real estate teams to adjust their team names to comply with existing law, giving them until July 1, 2027. It is a narrow, practical measure that avoids abrupt disruption."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1513",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1513/Introduced"
+  },
+  {
+    "id": "SB1514",
+    "number": "SB 1514",
+    "title": "Relating to the regulation of public property with respect to persons experiencing homelessness",
+    "vote": {
+      "vote": "no",
+      "reasoning": "Repealing the objective reasonableness standard would remove an important legal guardrail that balances local government authority with the rights of people experiencing homelessness. Without this standard, cities could enforce overly punitive restrictions with no consistent statewide check."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1514",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1514/Introduced"
+  },
+  {
+    "id": "SB1515",
+    "number": "SB 1515",
+    "title": "relating to petitions for compensation for wrongful conviction.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill strengthens protections for the wrongfully convicted by clarifying compensation eligibility, making certificates of innocence mandatory, and creating a new post-conviction relief pathway for convictions tainted by discredited forensic science."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1515",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1515/Introduced"
+  },
+  {
+    "id": "SB1516",
+    "number": "SB 1516",
+    "title": "Relating to public safety; creating new provisions; amending ORS 135.230, 135.233 and 166.070; and",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Expanding aggravated harassment to cover threats against public officials made in connection with their duties addresses a genuine and growing problem of official intimidation. The bill retains First Amendment compatibility by requiring a reasonable-alarm standard."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1516",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1516/Introduced"
+  },
+  {
+    "id": "SB1517",
+    "number": "SB 1517",
+    "title": "relating to liability related to skiing.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill strikes a reasonable balance in ski liability law: it allows operators to require negligence releases while explicitly prohibiting releases for gross negligence, equipment-related injuries, and violations of statutory duties. It also requires an opt-out option for skiers."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1517",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1517/Introduced"
+  },
+  {
+    "id": "SB1518",
+    "number": "SB 1518",
+    "title": "relating to worker protections.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Directing BOLI to study worker protection issues and report by September 2027 is a low-cost, information-gathering measure. The automatic sunset on January 2, 2028 prevents it from becoming a permanent mandate."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1518",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1518/Introduced"
+  },
+  {
+    "id": "SB1519",
+    "number": "SB 1519",
+    "title": "Relating to total disability; creating new provisions; and amending ORS 656.210.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Restructuring temporary total disability compensation to use a tiered rate provides higher replacement rates for lower-wage workers, who are most economically vulnerable when injured, while maintaining fiscal discipline for higher earners."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1519",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1519/Introduced"
+  },
+  {
+    "id": "SB1520",
+    "number": "SB 1520",
+    "title": "Relating to the administration of moneys within the Paid Family and Medical Leave Insurance Fund",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Authorizing the Employment Department director to adopt accounting rules for the Paid Family and Medical Leave Insurance Fund addresses a practical administrative need. The bill expressly prohibits altering the contribution rate structure set by the legislature."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1520",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1520/Introduced"
+  },
+  {
+    "id": "SB1521",
+    "number": "SB 1521",
+    "title": "Relating to local requirements to develop affordable housing; creating new provisions; and amending",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Requiring Portland-area cities to conduct economic analyses before mandating inclusionary housing makes affordable housing requirements more legally durable and economically rational, reducing the risk that mandates simply deter development."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1521",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1521/Introduced"
+  },
+  {
+    "id": "SB1522",
+    "number": "SB 1522",
+    "title": "Relating to housing.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Directing OHCS to study housing and report to the legislature by September 2027 is a minimal-cost, information-gathering step with a built-in sunset. Oregon faces a serious housing shortage, and a focused study can support evidence-based policymaking."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1522",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1522/Introduced"
+  },
+  {
+    "id": "SB1523",
+    "number": "SB 1523",
+    "title": "Relating to electronic access to residential tenancies; creating new provisions; amending ORS",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill protects tenant rights by guaranteeing non-electronic alternatives for all essential tenancy functions and prohibiting mandatory electronic-only payment requirements. It is particularly important for elderly, disabled, or low-income tenants who may lack reliable internet access."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1523",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1523/Introduced"
+  },
+  {
+    "id": "SB1524",
+    "number": "SB 1524",
+    "title": "Relating to horse racing; creating new provisions; and amending ORS 565.446 and 565.447.",
+    "vote": {
+      "vote": "no",
+      "reasoning": "Allocating a continuing stream of lottery revenues to support horse racing is a questionable use of public funds that benefits a narrow commercial interest rather than the general public. Lottery proceeds should be directed toward broad public benefits."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1524",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1524/Introduced"
+  },
+  {
+    "id": "SB1525",
+    "number": "SB 1525",
+    "title": "Relating to organizations relevant to Oregon\u2019s coastal resources; and prescribing an effective date.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill establishes a well-structured Blue Economy Task Force with diverse stakeholder representation and a clear sunset date, and authorizes the Oregon Ocean Science Trust to form a nonprofit. Both are low-cost, high-potential-benefit actions."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1525",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1525/Introduced"
+  },
+  {
+    "id": "SB1526",
+    "number": "SB 1526",
+    "title": "Relating to the facilitation of projects.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill creates a pathway to form a clean energy financing nonprofit, but wisely conditions action on securing at least $2 million in grant funding first, avoiding speculative state expenditures. Annual legislative reporting ensures oversight."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1526",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1526/Introduced"
+  },
+  {
+    "id": "SB1527",
+    "number": "SB 1527",
+    "title": "Relating to health care; creating new provisions; and amending ORS 743B.005.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Eliminating cost-sharing on cervical cancer screenings is a sound preventive health policy \u2014 early detection reduces downstream treatment costs and saves lives. The bill aligns with USPSTF evidence-based recommendations."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1527",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1527/Introduced"
+  },
+  {
+    "id": "SB1528",
+    "number": "SB 1528",
+    "title": "Relating to health care.",
+    "vote": {
+      "vote": "no",
+      "reasoning": "This bill is dangerously vague \u2014 it directs OHA to 'study health care' with no defined scope, methodology, or specific questions. A one-sentence directive to study an entire sector is not meaningful legislation and wastes agency resources."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1528",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1528/Introduced"
+  },
+  {
+    "id": "SB1529",
+    "number": "SB 1529",
+    "title": "Relating to health care.",
+    "vote": {
+      "vote": "no",
+      "reasoning": "This bill is identical to SB1528 \u2014 it directs OHA to 'study health care' with no scope or defined deliverables, and appears to be a duplicate placeholder bill. Passing two identical unfocused bills is redundant."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1529",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1529/Introduced"
+  },
+  {
+    "id": "SB1530",
+    "number": "SB 1530",
+    "title": "Relating to crime; amending ORS 166.070; and declaring an emergency.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Expanding the aggravated harassment statute to protect public officials from credible threats is a reasonable public safety measure. The requirement that the threat be objectively alarm-inducing provides sufficient limiting principles."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1530",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1530/Introduced"
+  },
+  {
+    "id": "SB1531",
+    "number": "SB 1531",
+    "title": "Relating to funding for emergency medical services.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Studying the feasibility of funding emergency medical services through a universal health care model is a prudent, low-cost step toward addressing EMS funding sustainability \u2014 a genuine crisis in rural Oregon."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1531",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1531/Introduced"
+  },
+  {
+    "id": "SB1532",
+    "number": "SB 1532",
+    "title": "Relating to services for vulnerable persons; creating new provisions; amending ORS 418.205, 418.321,",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill addresses gaps in protections for vulnerable adults and children in care by adding procedural requirements before imposing license conditions on long-term care facilities and requiring consent forms for electronic monitoring."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1532",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1532/Introduced"
+  },
+  {
+    "id": "SB1533",
+    "number": "SB 1533",
+    "title": "Relating to the rights of children in care; creating new provisions; amending ORS 409.185, 418.200,",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill strengthens the Oregon Foster Children's Bill of Rights by adding specific enumerated rights, shortening the notice period from 60 to 7 days, and clarifying sibling contact protections."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1533",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1533/Introduced"
+  },
+  {
+    "id": "SB1534",
+    "number": "SB 1534",
+    "title": "Relating to the welfare of young people; creating new provisions; amending ORS 329A.030, 329A.275,",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill fills important gaps in protections for children in care by clarifying definitions of abuse, strengthening child-caring agency licensing, and modifying out-of-state placement rules."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1534",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1534/Introduced"
+  },
+  {
+    "id": "SB1535",
+    "number": "SB 1535",
+    "title": "Relating to child care.",
+    "vote": {
+      "vote": "no",
+      "reasoning": "Like SB1528 and SB1529, this is a one-sentence directive to 'study child care' with no defined scope or methodology. A bill this vague does not constitute responsible legislating."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1535",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1535/Introduced"
+  },
+  {
+    "id": "SB1536",
+    "number": "SB 1536",
+    "title": "Relating to educational assessments.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Studying the adequacy of assessments in Oregon public schools is a reasonable and focused inquiry with a clear deliverable. This is a low-cost, potentially high-value study that could inform meaningful education reform."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1536",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1536/Introduced"
+  },
+  {
+    "id": "SB1537",
+    "number": "SB 1537",
+    "title": "Relating to boards of education of community college districts; creating new provisions; amending",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill improves transparency and community college governance by requiring public email addresses for board members and adding a student nonvoting representative to boards, giving students a meaningful voice."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1537",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1537/Introduced"
+  },
+  {
+    "id": "SB1538",
+    "number": "SB 1538",
+    "title": "Relating to conduct of public education; creating new provisions; amending ORS 180.810, 185.650,",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill protects the right to education for all students regardless of immigration status, codifying existing constitutional obligations while adding practical school-level protocols for responding to immigration enforcement."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1538",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1538/Introduced"
+  },
+  {
+    "id": "SB1539",
+    "number": "SB 1539",
+    "title": "Relating to providing animal health care; amending ORS 686.040.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill addresses a practical workforce need by allowing trained individuals to perform cattle pregnancy verification without a full veterinary license, reducing costs for agricultural operations while still requiring relevant training."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1539",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1539/Introduced"
+  },
+  {
+    "id": "SB1540",
+    "number": "SB 1540",
+    "title": "Relating to property insurance; and prescribing an effective date.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill addresses a critical consumer protection gap in Oregon's wildfire insurance market by requiring insurers to disclose risk scores, explain how mitigation actions affect premiums, and provide an appeals process."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1540",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1540/Introduced"
+  },
+  {
+    "id": "SB1541",
+    "number": "SB 1541",
+    "title": "Relating to greenhouse gas emissions; and prescribing an effective date.",
+    "vote": {
+      "vote": "no",
+      "reasoning": "While addressing climate costs is legitimate, this bill imposes strict retroactive liability on fossil fuel companies for global emissions going back to 1995, raising significant constitutional and jurisdictional concerns. The causal attribution methodology is inherently contested and litigation-prone."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1541",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1541/Introduced"
+  },
+  {
+    "id": "SB1542",
+    "number": "SB 1542",
+    "title": "Relating to transportation; creating new provisions; and amending ORS 184.617, 184.621, 184.657,",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill creates accountability and transparency in Oregon's transportation spending by requiring a 10-year capital investment plan with a scored, ranked project prioritization methodology that prioritizes safety and preservation."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1542",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1542/Introduced"
+  },
+  {
+    "id": "SB1543",
+    "number": "SB 1543",
+    "title": "Relating to transportation; creating new provisions; amending ORS 184.612, 184.649, 184.661, 367.025,",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Expanding the Oregon Transportation Commission from five to seven members with regional representation and requiring a formal debt financing management policy are sound governance reforms for a commission overseeing billions."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1543",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1543/Introduced"
+  },
+  {
+    "id": "SB1544",
+    "number": "SB 1544",
+    "title": "Relating to transportation.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This is a modest, low-cost study bill that directs ODOT to examine uniform standards for speed bump height and markings. It has a built-in sunset and requires a legislative report."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1544",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1544/Introduced"
+  },
+  {
+    "id": "SB1545",
+    "number": "SB 1545",
+    "title": "Relating to corner crossing; creating new provisions; amending ORS 164.205; and declaring an",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Corner crossing \u2014 stepping across the point where two public land parcels meet \u2014 has been a long-standing issue preventing access to landlocked public lands. This bill provides a balanced solution granting immunity from trespass suits for foot traffic that causes no harm."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1545",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1545/Introduced"
+  },
+  {
+    "id": "SB1546",
+    "number": "SB 1546",
+    "title": "Relating to artificial intelligence companions.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill addresses a genuine public health concern by requiring AI companion platforms to disclose their artificial nature, implement suicide and self-harm detection protocols, and apply additional protections for minors."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1546",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1546/Introduced"
+  },
+  {
+    "id": "SB1547",
+    "number": "SB 1547",
+    "title": "Relating to licensed behavioral health and wellness practitioners; creating new provisions; amending",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "Creating a new licensed behavioral health practitioner credential addresses Oregon's documented shortage of behavioral health workers by establishing a mid-level license for prevention and brief intervention services."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1547",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1547/Introduced"
+  },
+  {
+    "id": "SB1548",
+    "number": "SB 1548",
+    "title": "Relating to marijuana; creating new provisions; amending ORS 475C.017, 475C.449, 475C.604,",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill takes measured steps to improve public health around cannabis by requiring individual wrapping of edibles, mandating health-warning labels, and allowing local governments to establish buffer zones."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1548",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1548/Introduced"
+  },
+  {
+    "id": "SB1549",
+    "number": "SB 1549",
+    "title": "Relating to a tax credit for political contributions; creating new provisions; amending ORS 316.102",
+    "vote": {
+      "vote": "no",
+      "reasoning": "This bill raises the political contribution tax credit from $50/$100 to $1,000/$2,000 \u2014 a 20-fold increase that primarily benefits wealthier donors and creates significant foregone revenue for the state. The dramatic increase is fiscally irresponsible."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1549",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1549/Introduced"
+  },
+  {
+    "id": "SB1550",
+    "number": "SB 1550",
+    "title": "Relating to scrutinizing death; creating new provisions; and amending ORS 146.003, 146.035 and",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill closes a critical gap in death investigations by requiring law enforcement to interview family members and pursue autopsies when red-flag indicators of domestic violence or child abuse are present in suspected suicide/overdose deaths."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1550",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1550/Introduced"
+  },
+  {
+    "id": "SB1551",
+    "number": "SB 1551",
+    "title": "Relating to fire hardening of residential properties; creating new provisions; amending ORS 94.572,",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill prevents HOA deed restrictions from blocking fire-hardened building materials, a commonsense public safety measure given Oregon's growing wildfire risk. It still allows HOAs to apply aesthetic guidelines within reason."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1551",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1551/Introduced"
+  },
+  {
+    "id": "SB1552",
+    "number": "SB 1552",
+    "title": "Relating to the transfer of real property; and declaring an emergency.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill requires county clerks to notify property owners when instruments affecting their title are recorded, providing a simple and effective protection against deed fraud and title theft."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1552",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1552/Introduced"
+  },
+  {
+    "id": "SB1553",
+    "number": "SB 1553",
+    "title": "Relating to wildfires resulting from the fault of an electric company; and declaring an emergency.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill provides important consumer protections by prohibiting electric utilities found negligent in causing wildfires from passing their litigation costs onto ratepayers. It appropriately holds negligent utilities financially accountable."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1553",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1553/Introduced"
+  },
+  {
+    "id": "SB1554",
+    "number": "SB 1554",
+    "title": "Relating to infants born alive; creating new provisions; and amending ORS 677.190.",
+    "vote": {
+      "vote": "no",
+      "reasoning": "While the underlying principle that live-born infants deserve medical care is shared, this bill is primarily aimed at restricting abortion-related medical practice and introduces punitive mechanisms that could chill legitimate clinical decision-making. It is redundant with existing federal law."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1554",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1554/Introduced"
+  },
+  {
+    "id": "SB1555",
+    "number": "SB 1555",
+    "title": "Relating to the constitutional requirements for public education appropriations; creating new pro-",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill streamlines Oregon's constitutional reporting requirement for public education funding by replacing duplicative oversight bodies with a more direct cost-model approach. It preserves accountability while reducing bureaucratic overhead."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1555",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1555/Introduced"
+  },
+  {
+    "id": "SB1556",
+    "number": "SB 1556",
+    "title": "Relating to representation of persons in the magistrate division of the Oregon Tax Court; creating",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill consolidates rules for non-attorney representation before the Oregon Tax Court magistrate division, making it easier for taxpayers to navigate disputes without necessarily hiring an attorney. It improves access to justice."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1556",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1556/Introduced"
+  },
+  {
+    "id": "SB1557",
+    "number": "SB 1557",
+    "title": "relating to contempt proceedings.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill modernizes Oregon's contempt proceeding statutes, improving procedural clarity and fairness. Key improvements include explicit rights to counsel and appropriate default judgment procedures."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1557",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1557/Introduced"
+  },
+  {
+    "id": "SB1558",
+    "number": "SB 1558",
+    "title": "Relating to hospital staffing; creating new provisions; and amending ORS 441.762, 441.763, 441.764,",
+    "vote": {
+      "vote": "no",
+      "reasoning": "While this bill makes some positive adjustments to hospital nurse staffing law, the change increasing the medical-surgical nurse-to-patient ratio from 4 to 5 patients per nurse is a step backward for patient safety. Research consistently links lower ratios with better outcomes."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1558",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1558/Introduced"
+  },
+  {
+    "id": "SB1559",
+    "number": "SB 1559",
+    "title": "Relating to health care.",
+    "vote": {
+      "vote": "no",
+      "reasoning": "This bill directs OHA to 'study health care' with no defined scope, methodology, or specific questions. Such an unfocused mandate is an inefficient use of state agency resources and provides no meaningful policy direction."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1559",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1559/Introduced"
+  },
+  {
+    "id": "SB1560",
+    "number": "SB 1560",
+    "title": "Relating to allowable uses of place of worship; amending ORS 215.441.",
+    "vote": {
+      "vote": "no",
+      "reasoning": "This bill removes county authority to impose reasonable regulations on the physical characteristics of places of worship. Eliminating routine land use oversight raises equal treatment concerns and treats religious institutions more favorably without compelling justification."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1560",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1560/Introduced"
+  },
+  {
+    "id": "SB1561",
+    "number": "SB 1561",
+    "title": "Relating to restoration of dwellings damaged by involuntary causes; creating new provisions; and",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill creates a streamlined administrative pathway for homeowners to rebuild dwellings destroyed by natural disasters, bypassing the often-slow land use process. It includes reasonable safeguards limiting size increases to 25%."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1561",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1561/Introduced"
+  },
+  {
+    "id": "SB1562",
+    "number": "SB 1562",
+    "title": "Relating to local taxation; creating new provisions; amending ORS 320.350; and prescribing an ef-",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill gives local governments more flexibility in allocating transient lodging tax revenue, shifting the required tourism minimum from 70% to 40%. The added biennial reporting requirement improves transparency."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1562",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1562/Introduced"
+  },
+  {
+    "id": "SB1563",
+    "number": "SB 1563",
+    "title": "Relating to civil rights; and prescribing an effective date.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill creates a state-level civil rights cause of action for violations of the Oregon Constitution by persons acting under color of law, mirroring the federal Section 1983 framework. It provides an important additional remedy for rights violations."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1563",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1563/Introduced"
+  },
+  {
+    "id": "SB1564",
+    "number": "SB 1564",
+    "title": "Relating to the City of Woodburn\u2019s urban growth boundary; and prescribing an effective date.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill adds land to Woodburn's urban growth boundary with a meaningful 30% affordable housing requirement for 60 years. Woodburn has significant housing needs and the affordable housing mandate justifies the statutory override."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1564",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1564/Introduced"
+  },
+  {
+    "id": "SB1565",
+    "number": "SB 1565",
+    "title": "Relating to snowmobiles; creating new provisions; amending ORS 821.320; and prescribing an effec-",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill raises snowmobile registration fees from $10 to $30 to better fund trails and related services. The increase is modest and ensures those who use specific recreational resources help fund their maintenance."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1565",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1565/Introduced"
+  },
+  {
+    "id": "SB1566",
+    "number": "SB 1566",
+    "title": "Relating to the prevailing rate of wage; creating new provisions; amending ORS 279C.810; and pre-",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill updates Oregon's prevailing wage law exemption for affordable housing, expanding height limits and income targeting. Oregon faces a severe housing shortage and prevailing wage requirements significantly increase construction costs."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1566",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1566/Introduced"
+  },
+  {
+    "id": "SB1567",
+    "number": "SB 1567",
+    "title": "Relating to mixed income housing; creating new provisions; amending ORS 456.550, 456.612 and",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill authorizes below-market bridge loans for mixed-income housing projects. The revolving loan fund structure is fiscally sound and the bill includes appropriate rule-making requirements for eligibility."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1567",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1567/Introduced"
+  },
+  {
+    "id": "SB1568",
+    "number": "SB 1568",
+    "title": "Relating to perinatal services; creating new provisions; amending ORS 414.025, 414.665, 414.667,",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill establishes minimum coverage standards for doula services and requires coverage for lactation counselors. Evidence strongly supports the benefits of doula support in improving maternal and infant health outcomes."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1568",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1568/Introduced"
+  },
+  {
+    "id": "SB1569",
+    "number": "SB 1569",
+    "title": "Relating to public employee retirement; creating new provisions; and amending ORS 238.005.",
+    "vote": {
+      "vote": "yes",
+      "reasoning": "This bill extends police officer PERS classification to forensic scientists, evidence technicians, and other law-enforcement-adjacent roles. The classifications are prospective only, limiting fiscal impact while helping recruitment and retention."
+    },
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1569",
+    "pdf_url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1569/Introduced"
+  }
+]
